@@ -190,7 +190,7 @@ Developed advanced functionality for a Salesforce-based project management and f
 
 🏆 **Salesforce Agentblazer Champion**
 
-⭐ **Double Star Ranger — Salesforce Trailhead**
+⭐ **Double Star Ranger - Salesforce Trailhead**
 
 🎖️ **200+ Trailhead Badges**
 
