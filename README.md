@@ -1,141 +1,164 @@
 # 👋 Hi, I'm Nishant Tyagi
 
-### Salesforce Developer | Apex • LWC • Flow • Integrations • Automation
+### ☁️ Salesforce Developer | Apex • LWC • Flow • Integrations
 
 I’m a **Salesforce Developer** with 1.5+ years of experience building scalable solutions across **Sales Cloud and Service Cloud**.
 
-I specialize in turning complex business requirements into maintainable Salesforce solutions using **Apex, Lightning Web Components, Flow, REST APIs, data modeling, automation, and platform security**.
+My work focuses on **Apex, Lightning Web Components, Flow automation, REST API integrations, data modeling, platform security, and system design**.
 
-I enjoy solving difficult technical problems, designing automation, understanding system architecture, and building solutions that make Salesforce processes simpler and more reliable.
+I enjoy taking complex business requirements, understanding the underlying problem, and turning them into clean, scalable and maintainable Salesforce solutions.
 
 ---
 
-## 🚀 About Me
+## 🚀 What I Do
 
-* ☁️ Salesforce Developer focused on **Sales Cloud & Service Cloud**
-* 💻 Experienced with **Apex, LWC, SOQL, Flow & Salesforce automation**
+* ☁️ Build solutions on **Sales Cloud & Service Cloud**
+* ⚡ Develop custom functionality using **Apex & Lightning Web Components**
+* 🔄 Design business automation using **Salesforce Flow & Approval Processes**
 * 🔌 Build integrations using **REST APIs, Named Credentials, OAuth 2.0 & JWT**
-* 🧩 Experienced in **data modeling, platform security & record-level access**
-* ⚙️ Strong interest in **automation, system design & technical problem solving**
-* 🛠️ Experience with **production troubleshooting, UAT, deployments & post-go-live support**
-* 📊 Build custom data visualizations and user experiences with **JavaScript & Chart.js**
-* 🏆 Salesforce **Agentblazer Champion**
-* 🎯 Double Star Ranger on Trailhead with **200+ badges and 9+ Superbadges**
+* 🧩 Design scalable **Salesforce data models and relationships**
+* 🔐 Implement **Salesforce security and record-level access**
+* 🛠️ Troubleshoot production issues and perform root-cause analysis
+* 🚀 Support **UAT, deployments, release validation & post-go-live activities**
+* 📊 Build custom dashboards and data visualizations
+* 🧠 Translate business requirements into technical solutions
 
 ---
 
-## ☁️ Salesforce Expertise
+# ☁️ Salesforce Expertise
 
 ### Development
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge\&logo=salesforce\&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge\&logo=salesforce\&logoColor=white)
 
 `Apex` `Apex Classes` `Apex Controllers` `Triggers` `Test Classes`
 `Batch Apex` `Scheduled Apex` `Asynchronous Processing` `SOQL` `SOSL`
 
 ### Lightning
 
-`Lightning Web Components` `JavaScript` `HTML` `CSS` `Lightning Data Service`
+![LWC](https://img.shields.io/badge/Lightning_Web_Components-00A1E0?style=for-the-badge\&logo=salesforce\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+`LWC` `Lightning Data Service` `JavaScript` `HTML` `CSS`
 
 ### Automation
 
 `Record-Triggered Flows` `Screen Flows` `Scheduled Flows`
 `Approval Processes` `Workflow Rules` `Process Builder`
 
-### Architecture & Data
+### Data & Security
 
 `Data Modeling` `Custom Objects` `Custom Metadata` `Record Types`
-`Validation Rules` `Junction Objects` `Solution Design`
-
-### Security
-
-`Profiles` `Roles` `Permission Sets` `Sharing Rules`
-`Record-Level Security` `Salesforce Security Model`
+`Validation Rules` `Junction Objects`
+`Profiles` `Roles` `Permission Sets` `Sharing Rules` `Record-Level Security`
 
 ### Service Cloud
 
-`Case Management` `Omni-Channel` `Queues` `Email-to-Case`
-`Form-to-Case` `Knowledge` `Escalations` `SLA Management`
+`Case Management` `Omni-Channel` `Queues`
+`Email-to-Case` `Form-to-Case` `Knowledge`
+`Escalations` `SLA Management`
 
 ---
 
-## 🔌 Integration & API
+# 🔌 Integration & Architecture
 
-I have experience designing Salesforce integrations with external systems using:
+I have experience designing Salesforce integrations and data flows between Salesforce and external systems.
 
-`REST API` `RESTful Services` `SOAP API` `External Services`
-`Named Credentials` `OAuth 2.0` `JWT` `JSON` `Webhooks`
+### APIs & Authentication
 
-Also experienced with integrations involving:
+`REST API` `RESTful Services` `SOAP API`
+`External Services` `Named Credentials`
+`OAuth 2.0` `JWT` `JSON` `Webhooks`
+
+### External Platforms
 
 `SharePoint` `FormAssembly` `CityBase` `PeopleSoft`
 
+### Architecture
+
+* Solution Design
+* Data Modeling
+* Use Case Diagrams
+* Activity Diagrams
+* Data Flow Diagrams
+* Navigational Flow Diagrams
+* Requirements Analysis
+* Integration Design
+
 ---
 
-# 🚀 Featured Projects
+# 💼 Professional Salesforce Experience
+
+> Professional projects are summarized below without exposing client or organization names.
 
 ## ⚡ Municipal Clean-Energy Salesforce Platform
 
-Designed and developed Salesforce solutions for a complex municipal clean-energy workflow environment.
+**Sales Cloud • Apex • LWC • Flow • REST API • Document Management**
 
-### Highlights
-
-* Built **10+ end-to-end form workflows**
+* Delivered **10+ end-to-end municipal form workflows**
 * Processed **600+ form submissions**
-* Designed automated **Case, Opportunity & Contact creation**
-* Implemented intelligent team routing and assignment
-* Built automation using **Apex, Record-Triggered Flows, Validation Rules and Approval Processes**
-* Designed an **Opportunity-centric data model** connecting multiple Salesforce entities through junction relationships
-* Solved large-file handling limitations through a **multi-step form-chaining architecture**
+* Designed automated **Case, Opportunity and Contact creation**
+* Built intelligent routing and team-assignment automation
+* Combined **Apex, Record-Triggered Flows, Validation Rules and Approval Processes**
+* Designed an **Opportunity-centric data model** using scalable relationships and junction objects
+* Solved large-file upload limitations through a **multi-step form-chaining architecture**
 * Built approval lifecycle automation with confirmation emails and PDF submission summaries
-* Developed **REST API payment automation** for upfront and recurring payments
-* Implemented secure document management and dynamic document access
-* Owned **UAT, deployment validation, production troubleshooting and post-go-live support**
+* Developed **REST API payment automation** supporting upfront and recurring fee collection
+* Implemented secure document management with dynamic Salesforce-to-document-system linking
+* Independently supported **UAT, defect triage, deployment validation, production troubleshooting and post-go-live activities**
 
 ---
 
 ## 🏢 Service Cloud Modernization
 
-Contributed to the modernization of a large Service Cloud implementation focused on automation, case management, data quality and operational efficiency.
-
-### Highlights
+**Service Cloud • Flow • Case Management • Email-to-Case • SLA • Data Quality**
 
 * Analyzed and documented **30+ legacy workflows**
-* Identified automation dependencies, defects and modernization opportunities
+* Identified dependencies, defects and opportunities for modernization
 * Replaced eligible legacy automation with **Salesforce Flow**
 * Improved Email-to-Case and document-management processes
-* Implemented automation for task completion and attachment handling
-* Reduced duplicate data by **50%** through Screen Flow validation and automation controls
-* Mapped end-to-end case-management processes
-* Implemented case routing, notifications and approval automation
-* Developed **queue management, SLA and case-aging logic**
-* Enhanced reports and dashboards for operational monitoring
-* Supported PeopleSoft-to-Salesforce data ingestion architecture
+* Automated task completion and attachment handling
+* Reduced duplicate data by **50%** using Screen Flow validation and complementary automation
+* Mapped end-to-end case-management processes across intake, routing, resolution and escalation
+* Implemented automation for **case intake, routing, notifications and approvals**
+* Developed queue management, SLA controls and case-aging logic
+* Enhanced dashboards and reporting for operational monitoring
+* Supported PeopleSoft-to-Salesforce data-flow and ingestion design
 * Improved Salesforce Knowledge taxonomy and data categories
 
 ---
 
 ## 🧩 Salesforce Project Management Platform
 
-Developed advanced functionality for a Salesforce-based project management and form-builder platform.
+**Managed Package • LWC • Apex • JSON • Chart.js**
 
-### Highlights
-
-* Built an advanced **work-item filtering engine**
-* Supported complex **AND / OR filtering conditions**
-* Developed a dynamic **LWC filtering interface**
-* Created reusable filter controls and state management
-* Implemented **Favorites** for frequently used filter configurations
-* Designed a custom object to persist filter definitions as **JSON**
-* Developed Apex controllers for:
-
-  * Filter creation
-  * Retrieval
-  * Cloning
-  * Sharing
-  * Management
-  * Global filters
+* Built an advanced work-item filtering system supporting complex **AND / OR conditions**
+* Developed a dynamic **LWC-based filtering interface**
+* Implemented reusable filter controls and state management
+* Created a Favorites feature for frequently used filter configurations
+* Designed a custom object to persist filter configurations as **JSON**
+* Developed Apex controllers for filter creation, retrieval, cloning, sharing and management
 * Implemented secure sharing across **Users, Roles and Public Groups**
 * Preserved Salesforce record-level security and Permission Set controls
 * Built custom dashboards and visualizations using **Chart.js**
+
+---
+
+# 💻 GitHub Practice & Learning Projects
+
+This GitHub profile also contains projects and experiments I've built while strengthening my development fundamentals and exploring different technologies.
+
+### 🧪 What you'll find here
+
+* Front-end development practice
+* HTML / CSS / JavaScript projects
+* UI cloning and implementation exercises
+* Web development experiments
+* Programming and development practice
+* Experiments with different tools and technologies
+
+> My professional Salesforce implementations are not publicly hosted here because they are part of client engagements.
 
 ---
 
@@ -143,10 +166,8 @@ Developed advanced functionality for a Salesforce-based project management and f
 
 ### Salesforce
 
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge\&logo=salesforce\&logoColor=white)
-
-`Sales Cloud` `Service Cloud` `Salesforce Administration`
-`Apex` `LWC` `Flow` `SOQL` `SOSL`
+`Sales Cloud` `Service Cloud` `Apex` `LWC`
+`Flow` `SOQL` `SOSL` `Lightning Data Service`
 
 ### Programming
 
@@ -156,19 +177,22 @@ Developed advanced functionality for a Salesforce-based project management and f
 
 `JavaScript` `HTML` `CSS` `JSON`
 
-### Integration
-
-`REST API` `SOAP API` `OAuth 2.0` `JWT`
-`Named Credentials` `Webhooks` `External Services`
-
-### Development & Deployment
+### Tools & Development
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
-`Salesforce DX` `VS Code` `Salesforce CLI` `Git/GitHub`
-`Copado` `Change Sets` `Metadata API` `Managed Packages`
+`Salesforce DX` `Salesforce CLI` `VS Code`
+`Git` `GitHub` `Copado` `Change Sets` `Metadata API` `Managed Packages`
+
+---
+
+# 🚀 Development & Deployment
+
+`Salesforce DX` `VS Code` `Salesforce CLI`
+`Git/GitHub` `Copado` `Change Sets` `Metadata API`
+`Managed Packages` `Package Dependencies`
 
 ---
 
@@ -200,11 +224,11 @@ Developed advanced functionality for a Salesforce-based project management and f
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nishanttyagi08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nishanttyagi08&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanttyagi08&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
@@ -217,16 +241,6 @@ Developed advanced functionality for a Salesforce-based project management and f
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Nishanttyagi08&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishanttyagi08&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -245,7 +259,7 @@ Dr. K.N. Modi Institute of Engineering and Technology, Modinagar
 
 I'm always interested in discussing **Salesforce development, automation, integrations, architecture, and interesting technical problems.**
 
-<p align="left">
+<div align="left">
 
 <a href="https://www.linkedin.com/in/nishant-tyagi-59b01b229/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -255,7 +269,7 @@ I'm always interested in discussing **Salesforce development, automation, integr
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
