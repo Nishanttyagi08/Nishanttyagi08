@@ -222,19 +222,6 @@ This GitHub profile also contains projects and experiments I've built while stre
 
 💡 Recognized for strong **problem-solving, technical analysis and system-design capabilities**.
 
----
-
-# 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nishanttyagi08&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishanttyagi08&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
@@ -251,7 +238,7 @@ This GitHub profile also contains projects and experiments I've built while stre
 **Bachelor of Computer Applications (BCA)**
 Dr. K.N. Modi Institute of Engineering and Technology, Modinagar
 
-**2021 – 2024 | 74%**
+**2021 – 2024**
 
 ---
 
