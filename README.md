@@ -2,7 +2,7 @@
 
 ### ☁️ Salesforce Developer | Apex • LWC • Flow • Integrations
 
-I’m a **Salesforce Developer** with 1.5+ years of experience building scalable solutions across **Sales Cloud and Service Cloud**.
+I’m a **Salesforce Developer** with 2+ years of experience building scalable solutions across **Sales Cloud and Service Cloud**.
 
 My work focuses on **Apex, Lightning Web Components, Flow automation, REST API integrations, data modeling, platform security, and system design**.
 
